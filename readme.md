@@ -107,7 +107,7 @@ ChapChapSQL uses an object-oriented approach highly facilitated by mixed inherit
 ChapChapSQL is an open source software project and I encourage developers to contribute patches and code for us to include in the main package of ChapChapSQL. All contributions will be fully credited - see the [Contributing.md](./CONTRIBUTING.md) file for details on my code of conduct, and the process for submitting pull requests.
 
 ## Versioning
-This project uses [semver](https://semver.org) for versioning. Current version: v2.0.0
+This project uses [semver](https://semver.org) for versioning. Current version: v2.0.1 rc
 
 ## Authors & Contributors
 This project was created & is mantained by [Kelvin Kamau](https://github.com/kelvinkamau).
