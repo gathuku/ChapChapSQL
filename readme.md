@@ -50,7 +50,7 @@ http://www.kelvinkamau.com/sandbox
 ```
 
 ## Running tests locally
-To run tests, [visit the online demo](http://github.com/kelvinkamau/ChapChap_SQL_Operations
+To run tests, [visit the online demo](http://github.com/kelvinkamau/ChapChapSQL
 or see the [DEMO/README.md](./demo/README.md) file for notes on how to test locally.
 
 ## Deployment
